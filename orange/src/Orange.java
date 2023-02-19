@@ -15,5 +15,9 @@ System.out.println("color of apple is &quot" + color);
 private String getColor() {
 	// TODO Auto-generated method stub
 	return null;
+	void display() {
+		
+		
+	}
 }
 }
